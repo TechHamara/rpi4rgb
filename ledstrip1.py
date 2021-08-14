@@ -45,12 +45,12 @@ def color6():
     for i in range (60):
         np[i]=(0,0,0)
 while True:
-#     color1()
-#     color2()
-#     color3()
-#     color4()
-#     color5()
-      color6() 
+    color1()
+     color2()
+     color3()
+     color4()
+     color5()
+#      color6() 
      
           
          
